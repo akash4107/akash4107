@@ -9,7 +9,7 @@
 I'm **Akash**, a third-year BTech CSE(IT) student passionate about **programming**, **cybersecurity**, and **systems development**.
 
 🌱 I’m currently building a strong foundation in:
-- **C, C++** ,Python**
+- **C, C++ ,Python**
 - **Object-Oriented Programming**
 - **HTML, CSS, JavaScript, React**
 
@@ -55,15 +55,6 @@ I'm **Akash**, a third-year BTech CSE(IT) student passionate about **programming
 
 ---
 
-## 🧭 My 2025 Goals
-
-- 🔐 Dive deeper into **cybersecurity**
-- 🛠️ Build and share **open-source projects**
-- 🧠 Strengthen **OOP and system programming**
-- 🤝 Contribute to **collaborative dev projects**
-- 🎓 Learn **Git**, **GitHub**, and **DevOps basics**
-
----
 
 ## 📫 Connect With Me
 
