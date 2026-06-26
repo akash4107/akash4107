@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Akash!;CSE+(IT)+Student+%7C+Programmer;Learning+to+Build+%2B+Secure+%2B+Innovate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Akash!;B.Tech+IT+Student+%7C+Software+Developer;Building+Scalable+Software;DSA+%7C+Full+Stack+%7C+AI%2FML;Always+Learning+%E2%80%A2+Always+Building" alt="Typing SVG" />
 </p>
-
 ---
 
 # 👋 About Me
